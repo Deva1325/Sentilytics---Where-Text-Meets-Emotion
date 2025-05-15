@@ -38,7 +38,8 @@ project/
 
 ## 🖼️ Screenshots
 
-![App Screenshot](static/Sentilytics_Image1.png)
-![App Screenshot](static/Sentilytics_Image2.png)
+![Screenshot 1](https://github.com/Deva1325/Sentilytics---Where-Text-Meets-Emotion/raw/master/static/Sentilytics_Image1.png)
+![Screenshot 2](https://github.com/Deva1325/Sentilytics---Where-Text-Meets-Emotion/raw/master/static/Sentilytics_Image2.png)
+
 
 
