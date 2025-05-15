@@ -36,4 +36,7 @@ project/
 - Feedback analysis (education, events)
 - Healthcare & therapy emotion tracking
 
+![App Screenshot](static/Sentilytics_Image1.png)
+![App Screenshot](static/Sentilytics_Image2.png)
+
 
